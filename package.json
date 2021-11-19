@@ -1,0 +1,12 @@
+{
+  "name": "clase2rojasserrano",
+  "version": "1.0.0",
+  "description": "Ejercicio clase 2 - typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Facundo Nahuel Rojas Serrano",
+  "license": "ISC"
+}
